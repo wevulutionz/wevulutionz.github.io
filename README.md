@@ -1,6 +1,6 @@
 # Mi Página Web Personal
 
-![Vista previa de la página](https://wevulutionz.github.io)
+[Vista previa de la página](https://wevulutionz.github.io)
 
 Este es mi sitio web personal que muestra mi biografía, formación académica y datos de contacto.
 
