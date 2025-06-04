@@ -1,6 +1,6 @@
 # Mi Página Web Personal
 
-![Vista previa de la página](priview.jpg)
+[Vista previa de la página](https://karimebriguittecaripuma.github.io)
 
 Este es mi sitio web personal que muestra mi biografía, formación académica y datos de contacto.
 
